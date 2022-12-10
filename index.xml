@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YHN Blog</title>
+    <title>YHN&#39;s Blog</title>
     <link>https://yhn-ice.github.io/Blog/</link>
-    <description>Recent content on YHN Blog</description>
+    <description>Recent content on YHN&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 09:39:53 +0800</lastBuildDate><atom:link href="https://yhn-ice.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 11:08:04 +0800</lastBuildDate><atom:link href="https://yhn-ice.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://yhn-ice.github.io/Blog/posts/cv/</link>
+      <pubDate>Sat, 10 Dec 2022 11:08:04 +0800</pubDate>
+      
+      <guid>https://yhn-ice.github.io/Blog/posts/cv/</guid>
+      <description>PROJECTS Fortran to C++ Translator Apr 2022 - Present Develop an open-source project CFortranTranslator, in collaboration with Department of Aeronautics and Astronautics, Fudan University. Develop the lexer to support more Fortran syntaxes such as continuation Add support for translating the Fortran Module program unit Implement missing syntactic parser and C++ code generator to translate more Fortran statements and grammar rules Lambda Calculus Parser Nov 2022 - Nov 2022 An interpreter for Lambda Calculus introduced by the mathematician Alonzo Church.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://yhn-ice.github.io/Blog/posts/hello-world/</link>
