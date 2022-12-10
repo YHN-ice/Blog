@@ -1,4 +1,4 @@
 baseURL = 'https://yhn-ice.github.io/Blog/'
 languageCode = 'en-us'
-title = 'YHN Blog'
-theme = "HugoTex"
+title = "YHN's Blog"
+theme = 'HugoTex'
