@@ -6,7 +6,7 @@ summary: "HNYe"
 > Haoning Ye
 # PROJECTS
 ## [Fortran to C++ Translator](https://github.com/YHN-ice/CFortranTranslator)
-Apr 2022 - Present
+Apr 2022 - Dec 2022
 : Develop an open-source project CFortranTranslator, in collaboration with Department of Aeronautics and Astronautics, Fudan University.
 + Develop the lexer to support more Fortran syntaxes such as continuation
 + Add support for translating the Fortran Module program unit
@@ -51,24 +51,25 @@ Sep 2020 - Nov 2020
 + 2021~2022Second Prize of the Scholarship for Outstanding Students at Fudan University
 
 ### Courses(A)
-- Programming A in Java
-- Linear Algebra
-- Software Engineering
-- Discrete Mathematics II
-- Introduction to ComputerSystem II
-- Object-Oriented Programming
-- Deep Learning: Theory and Applications
-- Probability and Statistics
-- Computer Network
-- Intelligent Systems: Principles and Development
-- Computer Systems Engineering
-- Network Architecture
-- Information Security
-- Computer Architecture
-- System Programming Design
 - Operating System I
-- In-memory Data Management
+- Compilers
+- Computer Network
+- Network Architecture
+- Computer Architecture
+- Programming A in Java
+- System Programming Design
+- Computer Systems Engineering
+- Introduction to ComputerSystem II
+- Linear Algebra
+- Discrete Mathematics II
+- Probability and Statistics
+- Deep Learning: Theory and Applications
+- Intelligent Systems: Principles and Development
+- Software Engineering
+- Object-Oriented Programming
 - Introduction to Distributed System
+- Information Security
+- In-memory Data Management
 
 # WORK EXPERIENCE
 ## TA in *Programming in C for Freshmen*
@@ -82,3 +83,4 @@ Sep 2022 - Present
 : Research Intern
 + Knowledge graph construction
 + Entity and relation extraction
++ (WIP) Co-author of *Towards Evaluating Knowledge Graph Value based on Corpus*
