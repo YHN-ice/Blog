@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YHN&#39;s Blog</title>
-    <link>https://yhn-ice.github.io/Blog/</link>
+    <link>https://blog.haoningye.com/</link>
     <description>Recent content on YHN&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 11:08:04 +0800</lastBuildDate><atom:link href="https://yhn-ice.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 11:08:04 +0800</lastBuildDate><atom:link href="https://blog.haoningye.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://yhn-ice.github.io/Blog/posts/cv/</link>
+      <link>https://blog.haoningye.com/posts/cv/</link>
       <pubDate>Sat, 10 Dec 2022 11:08:04 +0800</pubDate>
       
-      <guid>https://yhn-ice.github.io/Blog/posts/cv/</guid>
+      <guid>https://blog.haoningye.com/posts/cv/</guid>
       <description>HNYe</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://yhn-ice.github.io/Blog/posts/hello-world/</link>
+      <link>https://blog.haoningye.com/posts/hello-world/</link>
       <pubDate>Sat, 10 Dec 2022 09:39:53 +0800</pubDate>
       
-      <guid>https://yhn-ice.github.io/Blog/posts/hello-world/</guid>
+      <guid>https://blog.haoningye.com/posts/hello-world/</guid>
       <description>Hello World </description>
     </item>
     
