@@ -1,5 +1,5 @@
 # baseURL = 'https://yhn-ice.github.io/Blog/'
-baseURL = 'https://blog.haoningye.com'
+baseURL = 'https://blog.haoningye.com/'
 languageCode = 'en-us'
 title = "YHN's Blog"
 theme = 'HugoTex'
