@@ -2,6 +2,7 @@
 title: "Experience"
 date: 2023-12-06T14:09:04-05:00
 tags: [résumé]
+cv: true
 hidden: true
 ---
 > << [Curriculum Vitae](/posts/cv)

@@ -2,6 +2,7 @@
 title: "Projects"
 date: 2023-12-06T14:08:58-05:00
 tags: [résumé]
+cv: true
 hidden: true
 ---
 

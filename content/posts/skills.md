@@ -2,6 +2,7 @@
 title: "Skills"
 date: 2023-12-06T14:08:27-05:00
 tags: [résumé]
+cv: true
 hidden: true
 ---
 
