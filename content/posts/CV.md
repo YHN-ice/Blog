@@ -1,11 +1,11 @@
 ---
-title: "Curriculum Vitae"
+title: "Curriculum Vitae - Haoning Ye"
 date: 2023-10-08T11:08:04+08:00
 tags: [résumé]
 hidden: false
-summary: "A coder"
+summary: "An adaptive, enthusiastic, versatile coder"
 ---
-> Haoning Ye
+> Adaptive, Enthusiastic, Versatile
 # [Skills](/posts/skills)
 - Rust, C/C++, Python and Erlang
 - Web Development, Natural Language Processing, Distributed System
@@ -27,3 +27,4 @@ summary: "A coder"
 - Teaching
   - TA in *Programming in C for Freshmen*
   - TA at *Intro to Distributed System* 
+

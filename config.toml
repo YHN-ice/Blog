@@ -11,6 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 paginate=3 # articles per page
+favicon = "https://img.icons8.com/fluency-systems-regular/48/engineer.png"
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
@@ -19,7 +20,6 @@ paginate=3 # articles per page
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
- favicon = "https://img.icons8.com/fluency-systems-regular/48/engineer.png"
 # Social Tags
 
 [[params.social]]
