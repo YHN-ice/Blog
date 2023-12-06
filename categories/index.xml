@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on YHN&#39;s Blog</title>
-    <link>https://blog.haoningye.com/categories/</link>
+    <link>https://cv.haoningye.com/categories/</link>
     <description>Recent content in Categories on YHN&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Haoning Ye</copyright><atom:link href="https://blog.haoningye.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Haoning Ye</copyright><atom:link href="https://cv.haoningye.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
