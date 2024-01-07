@@ -8,9 +8,11 @@ hidden: true
 
 > << [Curriculum Vitae](/posts/cv)
 ## Programming languages
-- Rust, C/C++, Java, Python and Erlang
-
+- C/C++, Rust, Java, Python, Shell Script, Erlang
 
 ## Tech Skills & Frameworks
-- Information Management System, Natural Language Processing, Distributed System
-- LaTeX, Git, Linux, Emacs, Android, Docker
+- Functional Programming, Web Development, Software Architecture and System Design, Natural Language Processing, Compilers, Distributed System, Database Management, Data Processing, Web Security, Cloud Computing and Containerization, Research and Data Analysis
+- LaTeX, LLVM, Git, Linux, Emacs, Android, Docker, Spring Framework, Elasticsearch, Flex, Bison, Pytorch, FPGA, Visual Studio
+
+## Transferable & Durable
+- Teamwork, Communication, Flexibility, Perseverance, Resilience, Time Management, Critical Thinking, Problem Solving, Technical Writing, Event Planning and Coordination

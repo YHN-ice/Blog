@@ -6,10 +6,14 @@ cv: true
 hidden: true
 ---
 > << [Curriculum Vitae](/posts/cv)
-## University of Waterloo, Waterloo, ON, Canada
-  M.Eng in Electrical and Computer Engineering, Sep 2023 - August 2025 (Expected), Waterloo, ON, Canada
-## Fudan University, Shanghai, China
-  B.Eng in Software Engineering, Sep 2019 - Jun 2023, Shanghai, China
+## University of Waterloo
+  M.Eng in Electrical and Computer Engineering
+
+  September 2023 -- August 2025 (Expected), Waterloo, ON, Canada
+## Fudan University
+  B.Eng in Software Engineering, Excellent Graduate
+
+  September 2019 -- June 2023, Shanghai, China
 ### Honors
 + Hhetea Freshmen Scholarship at Tengfei College, Fudan University(50/2000)
 + 2019~2020Third Prize of the Scholarship for Outstanding Students at Fudan University
@@ -21,7 +25,10 @@ hidden: true
 - Computer Network
 - Software Engineering
 - Compilers
-- and 17 others
+- Linear Algebra
+- Probability and Statistics
+- and 15 others
+
 
 
 
