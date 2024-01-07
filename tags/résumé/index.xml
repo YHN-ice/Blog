@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Haoning Ye</copyright>
-    <lastBuildDate>Wed, 06 Dec 2023 14:09:04 -0500</lastBuildDate><atom:link href="https://cv.haoningye.com/tags/r%C3%A9sum%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jan 2024 19:10:34 -0500</lastBuildDate><atom:link href="https://cv.haoningye.com/tags/r%C3%A9sum%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Activities &amp; Interests</title>
+      <link>https://cv.haoningye.com/posts/activities_and_interests/</link>
+      <pubDate>Sat, 06 Jan 2024 19:10:34 -0500</pubDate>
+      
+      <guid>https://cv.haoningye.com/posts/activities_and_interests/</guid>
+      <description> &amp;laquo; Curriculum Vitae
+Activities Special Collections Archive for Rare and Antique Texts March &amp;ndash; May 2021 Archival Assistant Fudan Liberal Arts Library, Shanghai, China Organized special ancient text collections, cataloging details like article titles, authors, publication years, issues, and journal numbers into the library&amp;rsquo;s database Gongqing Forest Park Autumn Outing November 2020 Event Planning Coordinator Cultural Exchange Club of China and German-Speaking Countries, Fudan University, Shanghai, China Participated in planning the club&amp;rsquo;s 2020 Autumn Outing at Gongqing Forest Park, emphasizing an orderly workflow and the arrangement of diverse activities Halloween Party for International Engagement and Cultural Exchange October &amp;ndash; November 2019 Event Organizing Personnel Cultural Exchange Club of China and German-Speaking Countries, Fudan University, Shanghai, China Contributed to organizing the club&amp;rsquo;s 2019 Halloween Party, fostering international engagement and cultural exchange environment Interests Music enthusiast with a passion for Post-Rock, Electronic, and Rock, fond of artists like Sigur Rós, Ólafur Arnalds, and Novo Amor Avid movie buff, with a particular interest in science fiction, romantic drama, and psychological drama Keen reader, balancing a diverse range of fiction and non-fiction to continually expand knowledge and perspectives </description>
+    </item>
+    
     <item>
       <title>Experience</title>
       <link>https://cv.haoningye.com/posts/experience/</link>
@@ -15,7 +25,7 @@
       
       <guid>https://cv.haoningye.com/posts/experience/</guid>
       <description>&amp;laquo; Curriculum Vitae
-Research Towards Evaluating Knowledge Graph Value based on Corpus Sep 2022 Knowledge Works Research Laboratory at Fudan University, Shanghai, China Research assistant, an evaluation on KG values using QAs derived from corpus Investigated Named Entity Recognition and Word Alignment methods in aid of Knowledge Graph evaluation by reproducing and tweaking existing works from related research Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation Apr 2023 Shanghai Key Laboratory of Data Science, School of Computer Science, Fudan University, Shanghai, China Research assistant, researched various data source and contributed to a benchmark Collected 60000 data from various domains and transformed corpus in a desired format for building a benchmark of 28,000 QAs Structure-Rich Text Benchmark for Knowledge Inference Evaluation Apr 2023 - Now Shanghai Key Laboratory of Data Science, School of Computer Science, Fudan University, Shanghai, China Research assistant, researched various structured texts and built a benchmark Researched 9 structured texts and designed 32 tasks for a benchmark of 2512 QAs evaluating structure-based inference ability of LLMs Internship Sunde Info Inc.</description>
+Research Structure-Rich Text Benchmark for Knowledge Inference Evaluation April &amp;ndash; August 2023 Research Assistant, studied various structured texts and developed an LLM benchmark Shanghai Key Laboratory of Data Science Conducted in-depth research on 8 structured texts and devised 29 tasks, creating a comprehensive benchmark of 5,800 QAs to evaluate the structure-based inference ability of Large Language Models (LLMs) Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation (AAAI24 Accepted) April 2023 Co-author, researched diverse data source and contributed to the benchmark Shanghai Key Laboratory of Data Science Collected 60,000 questions from various domains and transformed into a desired format for building a benchmark of 28,000 QAs Towards Evaluating Knowledge Graph Value based on Corpus September 2022 Research Assistant, an evaluation on KG values using QAs derived from corpus Shanghai Key Laboratory of Data Science Conducted an investigation into Named Entity Recognition and Word Alignment methods to support Knowledge Graph evaluation, involving the reproduction and modification of existing research works in a collaborative, fast-paced environment Internship Sunde Info Inc.</description>
     </item>
     
     <item>
@@ -25,7 +35,7 @@ Research Towards Evaluating Knowledge Graph Value based on Corpus Sep 2022 Knowl
       
       <guid>https://cv.haoningye.com/posts/projects/</guid>
       <description>&amp;laquo; Curriculum Vitae
-Fortran to C++ Translator Apr 2022 - Dec 2022 Fudan University, Shanghai, China Developed on an open-source project CFortranTranslator, in collaboration with Department of Aeronautics and Astronautics, Fudan University. Developed on a lexer using FSA in C++ to support more Fortran syntaxes including line continuation, data statement, pointers Designed and implemented facilities for translating the Module program unit in Fortran using yacc rules and productions in C++ Fixed missing syntactic parsing and C++ code generator to involve more Fortran statements and other grammar rules (use, format&amp;hellip;) Wrote comprehensive development documents to communicate on requirements from department of Aeronautics and Astronautics Lambda Calculus Parser Nov 2022 - Jun 2023 Fudan University, Shanghai, China An interpreter for Lambda Calculus introduced by the mathematician Alonzo Church.</description>
+Lambda Calculus Interpreter November 2022 &amp;ndash; June 2023 Software Developer, built an interpreter for Lambda Calculus introduced by Alonzo Church Fudan University, Shanghai, China Developed a lexer with Flex to facilitate the lexical tokenization of all terms in a simple Lambda Calculus system Built reduction driver for applying function to arguments with reduced and conflict-free syntax analytical rules in Bison Optimized beta-reduction using a normal-order reduction strategy in an object-oriented model, implemented in C++ Integrated with LLVM tool chain to support interpretation of C++ pure functions through custom attribute and Rewriter API Fortran to C++ Translator April &amp;ndash; December 2022 Software Developer, developed on an open-source project CFortranTranslator Fudan University, Shanghai, China Enhanced a lexer using Finite State Automata in C++ to incorporate missing Fortran syntaxes, including line continuation and pointers Completed the syntactic parsing and C++ code generation to include additional Fortran statements, such as USE and FORMAT Extended the existing tool by designing and implementing functionality for translating the Module program unit in Fortran, utilizing YACC rules and C++ production operations Authored detailed development documentation to communicate requirements from the Department of Aeronautics and Astronautics Library Management System March &amp;ndash; June 2021 Software Developer, a library information management system using Spring Boot Fudan University, Shanghai, China Implemented a reliable, robust, and secure authentication filter chain in the Spring Security framework, integrating JSON Web Tokens for enhanced security Refactored the project architecture into microservices, focusing on decoupling and modularization in both system and API design, which resulted in a threefold increase in throughput Configured and deployed the application on scalable cloud servers, employing Docker Image and Docker Compose to streamline deployment with a unified configuration file Utilized the Eureka module in Spring Cloud to facilitate load balancing and automatic service discovery for scalable microservices Collaborated with team members through weekly meetings, RESTful API design and requirement documentation, and pair programming Zookeeper-mini June 2022 Developed a minimal distributed database conforming with the Zab protocol.</description>
     </item>
     
     <item>
@@ -35,9 +45,11 @@ Fortran to C++ Translator Apr 2022 - Dec 2022 Fudan University, Shanghai, China 
       
       <guid>https://cv.haoningye.com/posts/education/</guid>
       <description> &amp;laquo; Curriculum Vitae
-University of Waterloo, Waterloo, ON, Canada M.Eng in Electrical and Computer Engineering, Sep 2023 - August 2025 (Expected), Waterloo, ON, Canada
-Fudan University, Shanghai, China B.Eng in Software Engineering, Sep 2019 - Jun 2023, Shanghai, China
-Honors Hhetea Freshmen Scholarship at Tengfei College, Fudan University(50/2000) 2019~2020Third Prize of the Scholarship for Outstanding Students at Fudan University 2021~2022Second Prize of the Scholarship for Outstanding Students at Fudan University Courses(A) Operating System I Computer Architecture Computer Network Software Engineering Compilers and 17 others </description>
+University of Waterloo M.Eng in Electrical and Computer Engineering
+September 2023 &amp;ndash; August 2025 (Expected), Waterloo, ON, Canada
+Fudan University B.Eng in Software Engineering, Excellent Graduate
+September 2019 &amp;ndash; June 2023, Shanghai, China
+Honors Hhetea Freshmen Scholarship at Tengfei College, Fudan University(50/2000) 2019~2020Third Prize of the Scholarship for Outstanding Students at Fudan University 2021~2022Second Prize of the Scholarship for Outstanding Students at Fudan University Courses(A) Operating System I Computer Architecture Computer Network Software Engineering Compilers Linear Algebra Probability and Statistics and 15 others </description>
     </item>
     
     <item>
@@ -47,7 +59,7 @@ Honors Hhetea Freshmen Scholarship at Tengfei College, Fudan University(50/2000)
       
       <guid>https://cv.haoningye.com/posts/skills/</guid>
       <description> &amp;laquo; Curriculum Vitae
-Programming languages Rust, C/C++, Java, Python and Erlang Tech Skills &amp;amp; Frameworks Information Management System, Natural Language Processing, Distributed System LaTeX, Git, Linux, Emacs, Android, Docker </description>
+Programming languages C/C++, Rust, Java, Python, Shell Script, Erlang Tech Skills &amp;amp; Frameworks Functional Programming, Web Development, Software Architecture and System Design, Natural Language Processing, Compilers, Distributed System, Database Management, Data Processing, Web Security, Cloud Computing and Containerization, Research and Data Analysis LaTeX, LLVM, Git, Linux, Emacs, Android, Docker, Spring Framework, Elasticsearch, Flex, Bison, Pytorch, FPGA, Visual Studio Transferable &amp;amp; Durable Teamwork, Communication, Flexibility, Perseverance, Resilience, Time Management, Critical Thinking, Problem Solving, Technical Writing, Event Planning and Coordination </description>
     </item>
     
     <item>

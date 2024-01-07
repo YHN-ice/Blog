@@ -10,7 +10,7 @@ body {
 }
 
 ::selection {
-  background: red;
+  background: var(--maincolor);
   color: #fff;
   text-shadow: none;
 }
